@@ -1,2 +1,3 @@
-# speaker_recognition
-Speaker recognition using CNN
+# Speaker recognition using CNN
+
+A simple Speaker classifier using Keras
